@@ -21,7 +21,7 @@ const int relay1 = 15;
 // Используйте @myidbot, чтобы получить ID пользователя или группы
 // Помните, что бот сможет вам писать только после нажатия
 // вами кнопки /start
-#define CHAT_ID "-927745210"
+#define CHAT_ID "-****************"
  
 #ifdef ESP8266
   X509List cert(TELEGRAM_CERTIFICATE_ROOT);
